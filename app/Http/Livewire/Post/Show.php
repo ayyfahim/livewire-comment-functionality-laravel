@@ -5,8 +5,6 @@ namespace App\Http\Livewire\Post;
 use App\Models\Post;
 use App\Models\Comment;
 use Livewire\Component;
-use App\Models\PostView;
-use Artesaos\SEOTools\Facades\SEOTools;
 
 class Show extends Component
 {
